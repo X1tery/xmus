@@ -1,7 +1,6 @@
 #include <input.hpp>
 #include <file.hpp>
 #include <pcm.hpp>
-#include <wave.hpp>
 #include <parser.hpp>
 
 int main(int argc, char** argv) {

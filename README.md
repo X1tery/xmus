@@ -25,3 +25,11 @@ if you want to construct a chord, write multiple notes on a single line separate
 ```
 [4](d4){sin}, [4](a4){tri}
 ```
+you can also write rests as follows
+```
+rest(4)
+```
+if you want to make a comment, start the line with two forward slashes
+```
+// this is a comment
+```

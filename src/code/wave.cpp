@@ -26,10 +26,8 @@ double wave::tri(double n) {
 
 double wave::sqr(double n) {
     const double nr{std::modf(n, &n)};
-    if (nr > 0.125 && nr < 0.375)
+    if (nr < 0.5)
         return 1.0;
-    else if (nr > 0.625 && nr < 0.875)
-        return -1.0;
     else
-        return 0;
+        return -1.0;
 }

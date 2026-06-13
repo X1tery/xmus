@@ -9,9 +9,8 @@ static size_t sample = 0;
 template <typename T>
 void writeTo(std::ofstream& file, T byte) {
     std::string bytearr{};
-    for (size_t i = 0; i < (sizeof byte); i++) {
+    for (size_t i = 0; i < (sizeof byte); i++)
         bytearr.push_back((byte & (0xff << (8 * i))) >> (i * 8));
-    }
     file << bytearr;
 }
 
