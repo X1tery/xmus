@@ -1,8 +1,9 @@
 # XMUS
-text file based daw
+text-based synthesizer
 ## usage
-this daw uses western music notation written in a specific format, which is interpreted by the program\
-
+```
+xmus [in_file.xmus] [out_file.wav]
+```
 the first two lines of the sheet file contain the bpm value and time signature respectively
 ```
 120

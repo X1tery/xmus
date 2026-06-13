@@ -1,0 +1,537 @@
+140
+4/4
+rest(4)
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},                 [8](e3){sqr}
+[8](d5){sqr},                 [8](e2){sqr}
+[16](e5){sqr},                [16](e3){sqr}
+[16](d5){sqr},                [16](e3){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+
+[8](a4){sqr},  [8](e4){sqr},  [8](a1){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](e5){sqr},                 [8](a1){sqr}
+[8](e5){sqr},                 [8](a2){sqr}
+[8](d5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](g#2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#2){sqr}
+[8](e5){sqr},                 [8](g#1){sqr}
+[8](e5){sqr},                 [8](g#2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](b2){sqr}
+                              [8](c3){sqr}
+
+//
+
+                              [8](d2){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d2){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d3){sqr}
+[8](g5){sqr},  [8](b4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](b1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](b2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](b1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](b2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](b1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](b2){sqr}
+[8](e5){sqr},                 [8](b1){sqr}
+[8](e5){sqr},                 [8](b2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](a1){sqr}
+                              [8](a2){sqr}
+
+// REP 1
+
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},                 [8](e3){sqr}
+[8](d5){sqr},                 [8](e2){sqr}
+[16](e5){sqr},                [16](e3){sqr}
+[16](d5){sqr},                [16](e3){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+
+[8](a4){sqr},  [8](e4){sqr},  [8](a1){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](e5){sqr},                 [8](a1){sqr}
+[8](e5){sqr},                 [8](a2){sqr}
+[8](d5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](g#2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#2){sqr}
+[8](e5){sqr},                 [8](g#1){sqr}
+[8](e5){sqr},                 [8](g#2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](b2){sqr}
+                              [8](c3){sqr}
+
+//
+
+                              [8](d2){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d2){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d3){sqr}
+[8](g5){sqr},  [8](b4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e3){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e3){sqr}
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+
+[8](c5){sqr},                 [8](a2){sqr}
+[8](c5){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+                              [8](a2){sqr}
+                              [8](a3){sqr}
+
+//
+
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](a2){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](e3){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](a2){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](e3){sqr}
+
+[8](g#3){sqr}, [8](e3){sqr},  [8](g#2){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](e3){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](g#2){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+//
+
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a3){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a3){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a3){sqr}
+
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+
+//
+
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},                 [8](e3){sqr}
+[8](d5){sqr},                 [8](e2){sqr}
+[16](e5){sqr},                [16](e3){sqr}
+[16](d5){sqr},                [16](e3){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+
+[8](a4){sqr},  [8](e4){sqr},  [8](a1){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](e5){sqr},                 [8](a1){sqr}
+[8](e5){sqr},                 [8](a2){sqr}
+[8](d5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](g#2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#2){sqr}
+[8](e5){sqr},                 [8](g#1){sqr}
+[8](e5){sqr},                 [8](g#2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](b2){sqr}
+                              [8](c3){sqr}
+
+//
+
+                              [8](d2){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d2){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d3){sqr}
+[8](g5){sqr},  [8](b4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e3){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e3){sqr}
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+
+[8](c5){sqr},                 [8](a2){sqr}
+[8](c5){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+                              [8](a2){sqr}
+                              [8](a3){sqr}
+
+// REP 2
+
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},                 [8](e3){sqr}
+[8](d5){sqr},                 [8](e2){sqr}
+[16](e5){sqr},                [16](e3){sqr}
+[16](d5){sqr},                [16](e3){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+
+[8](a4){sqr},  [8](e4){sqr},  [8](a1){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](e5){sqr},                 [8](a1){sqr}
+[8](e5){sqr},                 [8](a2){sqr}
+[8](d5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](g#2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#2){sqr}
+[8](e5){sqr},                 [8](g#1){sqr}
+[8](e5){sqr},                 [8](g#2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](b2){sqr}
+                              [8](c3){sqr}
+
+//
+
+                              [8](d2){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d2){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d3){sqr}
+[8](g5){sqr},  [8](b4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e3){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e3){sqr}
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+
+[8](c5){sqr},                 [8](a2){sqr}
+[8](c5){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+                              [8](a2){sqr}
+                              [8](a3){sqr}
+
+//
+
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](a2){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](e3){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](a2){sqr}
+[8](a3){sqr},  [8](e3){sqr},  [8](e3){sqr}
+
+[8](g#3){sqr}, [8](e3){sqr},  [8](g#2){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](e3){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](g#2){sqr}
+[8](g#3){sqr}, [8](e3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+//
+
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](g#2){sqr}
+[8](d4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](g#2){sqr}
+[8](b3){sqr},  [8](g#3){sqr}, [8](e3){sqr}
+
+[8](c4){sqr},  [8](a3){sqr},  [8](a2){sqr}
+[8](c4){sqr},  [8](a3){sqr},  [8](e3){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a2){sqr}
+[8](e4){sqr},  [8](c4){sqr},  [8](a3){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a3){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a3){sqr}
+
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e2){sqr}
+[8](g#4){sqr}, [8](e4){sqr},  [8](b3){sqr},  [8](e3){sqr}
+
+//
+
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},                 [8](e3){sqr}
+[8](d5){sqr},                 [8](e2){sqr}
+[16](e5){sqr},                [16](e3){sqr}
+[16](d5){sqr},                [16](e3){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+
+[8](a4){sqr},  [8](e4){sqr},  [8](a1){sqr}
+[8](a4){sqr},  [8](e4){sqr},  [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](e5){sqr},                 [8](a1){sqr}
+[8](e5){sqr},                 [8](a2){sqr}
+[8](d5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](g#1){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](g#2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#1){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](g#2){sqr}
+[8](e5){sqr},                 [8](g#1){sqr}
+[8](e5){sqr},                 [8](g#2){sqr}
+
+[8](c5){sqr},                 [8](a1){sqr}
+[8](c5){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a1){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+                              [8](b2){sqr}
+                              [8](c3){sqr}
+
+//
+
+                              [8](d2){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d2){sqr}
+[8](a5){sqr},  [8](c5){sqr},  [8](d3){sqr}
+[8](g5){sqr},  [8](b4){sqr},  [8](d2){sqr}
+[8](f5){sqr},  [8](a4){sqr},  [8](d3){sqr}
+
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c2){sqr}
+[8](e5){sqr},  [8](g4){sqr},  [8](c3){sqr}
+[8](d5){sqr},  [8](f4){sqr},  [8](c2){sqr}
+[8](c5){sqr},  [8](e4){sqr},  [8](c3){sqr}
+
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e3){sqr}
+[8](b4){sqr},  [8](g#4){sqr}, [8](e2){sqr}
+[8](c5){sqr},  [8](a4){sqr},  [8](e3){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e2){sqr}
+[8](d5){sqr},  [8](b4){sqr},  [8](e3){sqr}
+[8](e5){sqr},                 [8](e2){sqr}
+[8](e5){sqr},                 [8](e3){sqr}
+
+[8](c5){sqr},                 [8](a2){sqr}
+[8](c5){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+[8](a4){sqr},                 [8](a2){sqr}
+[8](a4){sqr},                 [8](a3){sqr}
+                              [8](a2){sqr}
+                              [8](a3){sqr}

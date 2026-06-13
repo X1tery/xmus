@@ -1,0 +1,537 @@
+140
+4/4
+rest(4)
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},                 [8](e3){tri}
+[8](d5){sin},                 [8](e2){tri}
+[16](e5){sin},                [16](e3){tri}
+[16](d5){sin},                [16](e3){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+
+[8](a4){sin},  [8](e4){sin},  [8](a1){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](e5){sin},                 [8](a1){tri}
+[8](e5){sin},                 [8](a2){tri}
+[8](d5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](g#2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#2){tri}
+[8](e5){sin},                 [8](g#1){tri}
+[8](e5){sin},                 [8](g#2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](b2){tri}
+                              [8](c3){tri}
+
+//
+
+                              [8](d2){tri},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d2){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d3){tri}
+[8](g5){sin},  [8](b4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](b1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](b2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](b1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](b2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](b1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](b2){tri}
+[8](e5){sin},                 [8](b1){tri}
+[8](e5){sin},                 [8](b2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](a1){tri}
+                              [8](a2){tri}
+
+// REP 1
+
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},                 [8](e3){tri}
+[8](d5){sin},                 [8](e2){tri}
+[16](e5){sin},                [16](e3){tri}
+[16](d5){sin},                [16](e3){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+
+[8](a4){sin},  [8](e4){sin},  [8](a1){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](e5){sin},                 [8](a1){tri}
+[8](e5){sin},                 [8](a2){tri}
+[8](d5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](g#2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#2){tri}
+[8](e5){sin},                 [8](g#1){tri}
+[8](e5){sin},                 [8](g#2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](b2){tri}
+                              [8](c3){tri}
+
+//
+
+                              [8](d2){tri},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d2){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d3){tri}
+[8](g5){sin},  [8](b4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e3){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e3){tri}
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+
+[8](c5){sin},                 [8](a2){tri}
+[8](c5){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+                              [8](a2){tri}
+                              [8](a3){tri}
+
+//
+
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](a3){sin},  [8](e3){sin},  [8](a2){tri}
+[8](a3){sin},  [8](e3){sin},  [8](e3){tri}
+[8](a3){sin},  [8](e3){sin},  [8](a2){tri}
+[8](a3){sin},  [8](e3){sin},  [8](e3){tri}
+
+[8](g#3){sin}, [8](e3){sin},  [8](g#2){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](e3){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](g#2){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+//
+
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a3){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a3){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a3){tri}
+
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+
+//
+
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},                 [8](e3){tri}
+[8](d5){sin},                 [8](e2){tri}
+[16](e5){sin},                [16](e3){tri}
+[16](d5){sin},                [16](e3){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+
+[8](a4){sin},  [8](e4){sin},  [8](a1){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](e5){sin},                 [8](a1){tri}
+[8](e5){sin},                 [8](a2){tri}
+[8](d5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](g#2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#2){tri}
+[8](e5){sin},                 [8](g#1){tri}
+[8](e5){sin},                 [8](g#2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](b2){tri}
+                              [8](c3){tri}
+
+//
+
+                              [8](d2){tri},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d2){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d3){tri}
+[8](g5){sin},  [8](b4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e3){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e3){tri}
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+
+[8](c5){sin},                 [8](a2){tri}
+[8](c5){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+                              [8](a2){tri}
+                              [8](a3){tri}
+
+// REP 2
+
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},                 [8](e3){tri}
+[8](d5){sin},                 [8](e2){tri}
+[16](e5){sin},                [16](e3){tri}
+[16](d5){sin},                [16](e3){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+
+[8](a4){sin},  [8](e4){sin},  [8](a1){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](e5){sin},                 [8](a1){tri}
+[8](e5){sin},                 [8](a2){tri}
+[8](d5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](g#2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#2){tri}
+[8](e5){sin},                 [8](g#1){tri}
+[8](e5){sin},                 [8](g#2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](b2){tri}
+                              [8](c3){tri}
+
+//
+
+                              [8](d2){tri},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d2){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d3){tri}
+[8](g5){sin},  [8](b4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e3){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e3){tri}
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+
+[8](c5){sin},                 [8](a2){tri}
+[8](c5){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+                              [8](a2){tri}
+                              [8](a3){tri}
+
+//
+
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](a3){sin},  [8](e3){sin},  [8](a2){tri}
+[8](a3){sin},  [8](e3){sin},  [8](e3){tri}
+[8](a3){sin},  [8](e3){sin},  [8](a2){tri}
+[8](a3){sin},  [8](e3){sin},  [8](e3){tri}
+
+[8](g#3){sin}, [8](e3){sin},  [8](g#2){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](e3){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](g#2){tri}
+[8](g#3){sin}, [8](e3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+//
+
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](d4){sin},  [8](b3){sin},  [8](g#2){tri}
+[8](d4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](g#2){tri}
+[8](b3){sin},  [8](g#3){sin}, [8](e3){tri}
+
+[8](c4){sin},  [8](a3){sin},  [8](a2){tri}
+[8](c4){sin},  [8](a3){sin},  [8](e3){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a2){tri}
+[8](e4){sin},  [8](c4){sin},  [8](a3){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a3){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a3){tri}
+
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e2){tri}
+[8](g#4){sin}, [8](e4){sin},  [8](b3){sin},  [8](e3){tri}
+
+//
+
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},                 [8](e3){tri}
+[8](d5){sin},                 [8](e2){tri}
+[16](e5){sin},                [16](e3){tri}
+[16](d5){sin},                [16](e3){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+
+[8](a4){sin},  [8](e4){sin},  [8](a1){tri}
+[8](a4){sin},  [8](e4){sin},  [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](e5){sin},                 [8](a1){tri}
+[8](e5){sin},                 [8](a2){tri}
+[8](d5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](g#1){tri}
+[8](c5){sin},  [8](a4){sin},  [8](g#2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#1){tri}
+[8](d5){sin},  [8](b4){sin},  [8](g#2){tri}
+[8](e5){sin},                 [8](g#1){tri}
+[8](e5){sin},                 [8](g#2){tri}
+
+[8](c5){sin},                 [8](a1){tri}
+[8](c5){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a1){tri}
+[8](a4){sin},                 [8](a2){tri}
+                              [8](b2){tri}
+                              [8](c3){tri}
+
+//
+
+                              [8](d2){tri},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d2){tri}
+[8](a5){sin},  [8](c5){sin},  [8](d3){tri}
+[8](g5){sin},  [8](b4){sin},  [8](d2){tri}
+[8](f5){sin},  [8](a4){sin},  [8](d3){tri}
+
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c2){tri}
+[8](e5){sin},  [8](g4){sin},  [8](c3){tri}
+[8](d5){sin},  [8](f4){sin},  [8](c2){tri}
+[8](c5){sin},  [8](e4){sin},  [8](c3){tri}
+
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e3){tri}
+[8](b4){sin},  [8](g#4){sin}, [8](e2){tri}
+[8](c5){sin},  [8](a4){sin},  [8](e3){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e2){tri}
+[8](d5){sin},  [8](b4){sin},  [8](e3){tri}
+[8](e5){sin},                 [8](e2){tri}
+[8](e5){sin},                 [8](e3){tri}
+
+[8](c5){sin},                 [8](a2){tri}
+[8](c5){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+[8](a4){sin},                 [8](a2){tri}
+[8](a4){sin},                 [8](a3){tri}
+                              [8](a2){tri}
+                              [8](a3){tri}
