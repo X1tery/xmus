@@ -44,16 +44,19 @@ uint32_t parseDuration(std::string sdur) {
 
 uint16_t parseFrequency(std::string sfreq) {
     uint16_t freq;
-    switch (sfreq.size()) {
-        case 2:
-            freq = std::round(std::pow(2, std::stoul(sfreq.substr(1))) * NOTE_MAP.at(sfreq.substr(0, 1)));
-            break;
-        case 3:
-            freq = std::round(std::pow(2, std::stoul(sfreq.substr(2))) * NOTE_MAP.at(sfreq.substr(0, 2)));
-            break;
-        default:
-            throw;
-    }
+    if (std::isalpha(sfreq[0])) {
+        switch (sfreq.size()) {
+            case 2:
+                freq = std::round(std::pow(2, std::stoul(sfreq.substr(1))) * NOTE_MAP.at(sfreq.substr(0, 1)));
+                break;
+            case 3:
+                freq = std::round(std::pow(2, std::stoul(sfreq.substr(2))) * NOTE_MAP.at(sfreq.substr(0, 2)));
+                break;
+            default:
+                throw;
+        }
+    } else
+        freq = std::stoul(sfreq);
     return freq;
 }
 

@@ -1,0 +1,232 @@
+150
+4/4
+// https://musescore.com/user/80433604/scores/34756817
+rest(4)
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](d5){tri}, [4](g4){tri}, [4](d2){sqr}
+[2](e5){tri}, [2](c5){tri}, [2](e2){sqr}
+
+//
+
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+[2](a4){tri}, [2](a3){tri}, [2](a1){sqr}
+
+// REP 1
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](d5){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){sin}, [4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](d5){sin}, [4](d5){tri}, [4](g4){tri}, [4](d2){sqr}
+[2](e5){sin}, [2](e5){tri}, [2](c5){tri}, [2](e2){sqr}
+
+//
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](d5){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){sin}, [4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](b4){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+[2](a4){sin}, [2](a4){tri}, [2](a3){tri}, [2](a1){sqr}
+
+// REP 2
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](d5){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){sin}, [4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](d5){sin}, [4](d5){tri}, [4](g4){tri}, [4](d2){sqr}
+[2](e5){sin}, [2](e5){tri}, [2](c5){tri}, [2](e2){sqr}
+
+//
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](e2){sqr}
+[4](e5){sin}, [4](d5){tri}, [4](b4){tri}, [4](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](d2){sqr}
+[12](e5){sin}, [12](c5){tri}, [12](a4){tri}, [12](c2){sqr}
+[4](d5){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+
+[4](c5){sin}, [4](c5){tri}, [4](a4){tri}, [4](c2){sqr}
+[4](b4){sin}, [4](b4){tri}, [4](e4){tri}, [4](b1){sqr}
+[2](a4){sin}, [2](a4){tri}, [2](a3){tri}, [2](a1){sqr}
+
+//
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](b2){sqr}
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](c6){sin}, [4](c6){tri}, [4](a5){tri}, [4](c3){sqr}
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](b2){sqr}
+
+[4](a5){sin}, [4](a5){tri}, [4](e5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](e5){sin}, [4](e5){tri}, [4](c5){tri}, [4](c2){sqr}
+[4](e5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+//
+
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](c3){sqr}
+[4](c6){sin}, [4](a5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](a2){sqr}
+[4](a5){sin}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](b2){sqr}
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](e2){sqr}
+[4](c6){sin}, [4](c6){tri}, [4](a5){tri}, [4](c3){sqr}
+[4](b5){sin}, [4](b5){tri}, [4](e5){tri}, [4](b2){sqr}
+
+[4](a5){sin}, [4](a5){tri}, [4](e5){tri}, [4](a2){sqr}
+[8.](a5){sin}, [8.](a5){tri}, [8.](e5){tri}, [8.](e2){sqr}
+[16](a5){sin}, [16](a5){tri}, [16](e5){tri}
+[8.](a5){sin}, [8.](a5){tri}, [8.](e5){tri}, [8.](e2){sqr}
+[16](a5){sin}, [16](a5){tri}, [16](e5){tri}
+[8.](a5){sin}, [8.](a5){tri}, [8.](e5){tri}, [8.](e2){sqr}
+[16](a5){sin}, [16](a5){tri}, [16](e5){tri}
+
+//
+
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+
+[4](a5){tri}, [4](e5){tri}, [4](c5){tri}, [4](c3){sqr}
+[4](a5){tri}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+
+[4](d5){tri}, [4](b4){tri}, [4](f4){tri}, [4](e2){sqr}
+[4](d5){tri}, [4](b4){tri}, [4](f4){tri}, [4](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](c2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b3){tri}, [4](b1){sqr}
+
+[4](c5){tri}, [4](a4){tri}, [4](e4){tri}, [4](c2){sqr}
+[4](d5){tri}, [4](g4){tri}, [4](d4){tri}, [4](d2){sqr}
+[2](e5){tri}, [2](c5){tri}, [2](a4){tri}, [2](e2){sqr}
+
+//
+
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+
+[4](a5){tri}, [4](e5){tri}, [4](c5){tri}, [4](c3){sqr}
+[4](a5){tri}, [4](e5){tri}, [4](c5){tri}, [4](e2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](a2){sqr}
+[4](e5){tri}, [4](c5){tri}, [4](a4){tri}, [4](e2){sqr}
+
+[4](d5){tri}, [4](b4){tri}, [4](f4){tri}, [4](e2){sqr}
+[4](d5){tri}, [4](b4){tri}, [4](f4){tri}, [4](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](c2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](d2){sqr}
+[12](c5){tri}, [12](a4){tri}, [12](e4){tri}, [12](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b3){tri}, [4](b1){sqr}
+
+[4](c5){tri}, [4](a4){tri}, [4](e4){tri}, [4](c2){sqr}
+[4](b4){tri}, [4](e4){tri}, [4](b3){tri}, [4](b1){sqr}
+[2](a4){tri}, [2](a3){tri}, [2](a4){tri}, [2](a1){sqr}
