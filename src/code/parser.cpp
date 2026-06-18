@@ -33,7 +33,7 @@ const std::unordered_map<std::string, double> NOTE_MAP {
     {"b", 30.87}
 };
 
-note::note(uint32_t duration, uint16_t frequency, std::function<double(double)> wave_function, bool is_rest) : dur(duration), freq(frequency), wave(wave_function), rest(is_rest) {}
+note::note(uint32_t duration, uint16_t frequency, std::function<double(double)> wave_function, bool is_rest, bool is_trans) : dur(duration), freq(frequency), wave(wave_function), rest(is_rest), trans(is_trans) {}
 
 uint32_t parseDuration(std::string sdur) {
     double dur{static_cast<double>(signature.second) / (std::stoul(sdur) * bpm)};
@@ -73,6 +73,45 @@ std::vector<note> parseChord(std::string line) {
     return chord;
 }
 
+void handleChords(std::unique_ptr<std::vector<std::vector<note>>>& chords) {
+    for (size_t i = 0; i < chords->size(); i++) {
+        if ((*chords)[i].size() > 1) {
+            uint32_t min_dur{std::min_element((*chords)[i].cbegin(), (*chords)[i].cend(), [](note a, note b) {
+                if (b.trans)
+                    return true;
+                else
+                    return a.dur < b.dur;
+            })->dur};
+            for (note& nt : (*chords)[i]) {
+                if (nt.dur < min_dur) {
+                    std::vector<note> fchord{(*chords)[i]};
+                    std::transform((*chords)[i].begin(), (*chords)[i].end(), fchord.begin(), [&](note a) {
+                        a.dur = nt.dur;
+                        return a;
+                    });
+                    std::vector<note> lchord{(*chords)[i]};
+                    std::transform((*chords)[i].begin(), (*chords)[i].end(), lchord.begin(), [&](note a) {
+                        a.dur -= nt.dur;
+                        return a;
+                    });
+                    (*chords)[i] = lchord;
+                    chords->insert(chords->cbegin() + i, fchord);
+                    break;
+                } else if (nt.dur > min_dur) {
+                    note newnt{nt};
+                    newnt.trans = true;
+                    newnt.dur = nt.dur - min_dur;
+                    nt.dur = min_dur;
+                    if (i + 1 >= chords->size())
+                        chords->push_back({newnt});
+                    else
+                        (*chords)[i + 1].push_back(newnt);
+                }
+            }
+        }
+    }
+}
+
 std::unique_ptr<std::vector<std::vector<note>>> parseFile(std::string filename) {
     std::ifstream file{filename, std::ios::app};
     if (!file.good()) {
@@ -95,6 +134,7 @@ std::unique_ptr<std::vector<std::vector<note>>> parseFile(std::string filename) 
             else
                 content->push_back(parseChord(line));
         }
+        handleChords(content);
     } catch (...) {
         std::println(std::cerr, "failed to parse file");
         exit(1);
