@@ -78,7 +78,7 @@ void handleChords(std::unique_ptr<std::vector<std::vector<note>>>& chords) {
         if ((*chords)[i].size() > 1) {
             uint32_t min_dur{std::min_element((*chords)[i].cbegin(), (*chords)[i].cend(), [](note a, note b) {
                 if (b.trans)
-                    return true;
+                    return false;
                 else
                     return a.dur < b.dur;
             })->dur};
@@ -100,7 +100,7 @@ void handleChords(std::unique_ptr<std::vector<std::vector<note>>>& chords) {
                 } else if (nt.dur > min_dur) {
                     note newnt{nt};
                     newnt.trans = true;
-                    newnt.dur = nt.dur - min_dur;
+                    newnt.dur -= min_dur;
                     nt.dur = min_dur;
                     if (i + 1 >= chords->size())
                         chords->push_back({newnt});
